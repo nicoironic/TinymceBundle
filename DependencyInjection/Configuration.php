@@ -52,6 +52,7 @@ class Configuration implements ConfigurationInterface
                             ->addDefaultsIfNotSet()
                             ->children()
                                 ->scalarNode('title')->isRequired()->end()
+								->scalarNode('text')->isRequired()->end()
                                 ->scalarNode('image')->defaultNull()->end()
                             ->end()
                         ->end()

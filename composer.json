@@ -1,6 +1,6 @@
 {
-    "name": "stfalcon/tinymce-bundle",
-    "description": "This Bundle integrates TinyMCE WYSIWYG editor into a Symfony2 project.",
+    "name": "nicoironic/tinymce-bundle",
+    "description": "This Bundle integrates TinyMCE WYSIWYG editor into a Symfony2 project. This is FORKED",
     "keywords": ["wysiwyg", "tinymce", "editor"],
     "type": "symfony-bundle",
     "license": "MIT",
